@@ -39,11 +39,3 @@ Quer ajudar a melhorar essa aplicação? Fique à vontade para abrir um pull req
 
 Vamos juntos celebrar o esporte e a inclusão!
 
-**[Adicione aqui links para seus perfis nas redes sociais ou para o repositório do projeto]**
-
-**Dicas:**
-
-* Use emojis para tornar o README mais divertido e visualmente atraente.
-* Adicione imagens ou GIFs para ilustrar o funcionamento da aplicação.
-* Mantenha o tom descontraído e convidativo para incentivar a colaboração.
-* Use seções para organizar o conteúdo e facilitar a leitura.
