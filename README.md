@@ -18,8 +18,11 @@ JavaScript
 Como usar:
 
 Clone o repositório.
+
 Abra o index.html no seu navegador.
+
 Pesquise ou explore todos os atletas!
+
 Contribua:
 Abra um pull request para ajudar a melhorar a aplicação!
 
